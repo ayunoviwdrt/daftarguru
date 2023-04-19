@@ -6,6 +6,14 @@
     <br>
 </p>
 
+Dengan adanya aplikasi daftar guru ini, semua berkas yang berhubungan dengan kegiatan guru akan terorganisasi dengan rapi. Hal ini tentu saja akan mempermudah dan mempercepat proses kegiatan sehari-hari guru. Daftar hadir guru ini digunakan untuk mencatat jumlah guru yang hadir saat kegiatan sudah dilaksanakan. Daftar hadir seperti ini sangat dibutuhkan oleh para pelaku kegiatan karena memiliki gunaan yang sangat luas. Fungsi dari aplikasi ini selain untuk mempermudah pencatatan, juga dapat menghindarkan resiko kehilangan data pengarsipan karena dijadikan data baku. Oleh sebab itu, aplikasi daftar guru merupakan solusi yang tepat untuk mempermudah dan mempercepat kegiatan guru.
+
+Aplikasi ini terdiri dari: Data Daftar Guru, Jadwal Mengajar beserta mata pelajaran dan kelas
+
+
+
+
+
 Yii 2 Basic Project Template is a skeleton [Yii 2](http://www.yiiframework.com/) application best for
 rapidly creating small projects.
 
