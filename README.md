@@ -23,4 +23,4 @@ Website ini dibangun menggunakan :
 - [Bootstrap](https://getbootstrap.com/) kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. 
 - [PHP](https://www.php.net/) hypertext Preprocessor atau hanya PHP saja, adalah bahasa skrip dengan fungsi umum yang terutama digunakan untuk pengembangan web.
 to Markdown converter
-- [Yii](https://www.yiiframework.com/) yii adalah framework pemrograman umum Web yang bisa dipakai untuk mengembangkan semua jenis aplikasi Web.
+- [Yii](https://www.yiiframework.com/) adalah framework pemrograman umum Web yang bisa dipakai untuk mengembangkan semua jenis aplikasi Web.
