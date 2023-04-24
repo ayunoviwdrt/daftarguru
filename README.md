@@ -10,9 +10,9 @@ Dengan adanya aplikasi daftar guru ini, semua berkas yang berhubungan dengan keg
 
 ## Features
 
--Data Daftar Guru 
--Jadwal Mengajar 
--Mata Pelajaran dan Kelas
+- Data Daftar Guru
+- Jadwal Mengajar
+- Mata Pelajaran dan Kelas 
 
 ## Tech
 
