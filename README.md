@@ -49,4 +49,4 @@ http://localhost/daftarguru/web/index.php?r=kelas%2Findex
 
 | Plugin | README |
 | ------ | ------ |
-| GitHub | [plugins/github/README.md][PlGh] |
+| GitHub | [plugins/github/README.md] |
