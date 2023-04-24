@@ -28,8 +28,6 @@ Website ini dibangun menggunakan :
 
 ```sh
 Masuk ke folder
-```
-```sh
 C:\xampp_\htdocs\daftarguru_git_ignore
 ```
 
