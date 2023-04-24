@@ -18,6 +18,6 @@ Dengan adanya aplikasi daftar guru ini, semua berkas yang berhubungan dengan keg
 
 Website ini dibangun menggunakan :
 
-- [HTML](https://www.w3schools.com/html/) Bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet. 
-- [CSS](https://www.w3schools.com/css/) Singkatan dari Cascading Style Sheet yang dipergunakan untuk menentukan tampilan dan format pada sebuah website. Artinya, dengan adanya CSS bisa mengatur mulai dari font, warna tulisan dan latar belakang pada website tersebut.
-- [Bootstrap](https://getbootstrap.com/) Kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. 
+- [HTML](https://www.w3schools.com/html/) bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet. 
+- [CSS](https://www.w3schools.com/css/) singkatan dari Cascading Style Sheet yang dipergunakan untuk menentukan tampilan dan format pada sebuah website. Artinya, dengan adanya CSS bisa mengatur mulai dari font, warna tulisan dan latar belakang pada website tersebut.
+- [Bootstrap](https://getbootstrap.com/) kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. 
