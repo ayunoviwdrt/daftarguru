@@ -44,3 +44,9 @@ http://localhost/daftarguru/web/index.php?r=mapel%2Findex
 ```sh
 http://localhost/daftarguru/web/index.php?r=kelas%2Findex
 ```
+
+## Plugins
+
+| Plugin | README |
+| ------ | ------ |
+| GitHub | [plugins/github/README.md][PlGh] |
