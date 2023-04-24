@@ -21,5 +21,20 @@ Website ini dibangun menggunakan :
 - [HTML](https://www.w3schools.com/html/) bahasa markah standar untuk dokumen yang dirancang untuk ditampilkan di peramban internet. 
 - [CSS](https://www.w3schools.com/css/) singkatan dari Cascading Style Sheet yang dipergunakan untuk menentukan tampilan dan format pada sebuah website. Artinya, dengan adanya CSS bisa mengatur mulai dari font, warna tulisan dan latar belakang pada website tersebut.
 - [Bootstrap](https://getbootstrap.com/) kerangka kerja CSS yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. 
-- [PHPMyAdmin](https://www.php.net/) hypertext Preprocessor atau hanya PHP saja, adalah bahasa skrip dengan fungsi umum yang terutama digunakan untuk pengembangan web.
+- [PHPMyAdmin](https://www.phpmyadmin.net/) perangkat lunak bebas yang ditulis dalam bahasa pemrograman PHP yang digunakan untuk menangani administrasi MySQL melalui website Jejaring Jagat Jembar. 
 - [Yii2 framework](https://www.yiiframework.com/) adalah framework pemrograman umum Web yang bisa dipakai untuk mengembangkan semua jenis aplikasi Web.
+
+## Installation
+
+```sh
+git clone
+```
+Masuk ke folder
+```sh
+C:\xampp_\htdocs\daftarguru_git_ignore
+```
+
+Cara melihat hasil Website Daftar Guru SMKN 1 Denpasar
+```sh
+http://localhost/daftarguru/web/index.php?r=guru
+```
