@@ -30,7 +30,9 @@ Website ini dibangun menggunakan :
 git clone 
 ```
 
-
+```sh
+composer -v
+```
 
 ## Plugins
 
