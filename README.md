@@ -33,7 +33,7 @@ git clone : https://github.com/ayunoviwdrt/daftarguru.git
 Instal Composer
 
 ```sh
-php composer-setup.php
+composer install
 ```
 
 Membuat database di config sesuai dengan db.php
@@ -42,12 +42,14 @@ Membuat database di config sesuai dengan db.php
 dbname=daftarguru
 ```
 
-
 Applying Migrations 
 
 ```sh
 yii migrate
 ```
+Hasil 
+```sh
+php yii serve --port=8990
 
 ## Plugins
 
