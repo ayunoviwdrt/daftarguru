@@ -27,19 +27,26 @@ Website ini dibangun menggunakan :
 ## Installation
 
 ```sh
-git clone 
+git clone : https://github.com/ayunoviwdrt/daftarguru.git
 ```
 
 Instal Composer
 
 ```sh
-composer -v
+php composer-setup.php
 ```
 
-Creating Migration
+Membuat database di config sesuai dengan db.php
 
 ```sh
-yii migrate/create create_guru_table
+dbname=daftarguru
+```
+
+
+Applying Migrations 
+
+```sh
+yii migrate
 ```
 
 ## Plugins
