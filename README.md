@@ -50,6 +50,7 @@ yii migrate
 Hasil 
 ```sh
 php yii serve --port=8990
+```
 
 ## Plugins
 
