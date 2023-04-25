@@ -26,8 +26,9 @@ Website ini dibangun menggunakan :
 
 ## Installation
 
+Clone Project
 ```sh
-git clone : https://github.com/ayunoviwdrt/daftarguru.git
+git clone https://github.com/ayunoviwdrt/daftarguru.git
 ```
 
 Instal Composer
