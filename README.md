@@ -27,11 +27,11 @@ Website ini dibangun menggunakan :
 ## Installation
 
 ```sh
-Masuk ke folder
-C:\xampp_\htdocs\daftarguru_git_ignore
+git clone 
 ```
 
-Cara melihat hasil Website Daftar Guru SMKN 1 Denpasar
+Cara melihat hasil website Perpustakaan SMKN 1 Denpasar
+
 ```sh
 http://localhost/daftarguru/web/index.php?r=guru
 ```
