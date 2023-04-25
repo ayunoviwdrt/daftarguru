@@ -30,6 +30,8 @@ Website ini dibangun menggunakan :
 git clone 
 ```
 
+Instal Composer
+
 ```sh
 composer -v
 ```
