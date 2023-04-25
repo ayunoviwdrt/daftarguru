@@ -36,6 +36,12 @@ Instal Composer
 composer -v
 ```
 
+Creating Migration
+
+```sh
+yii migrate/create create_guru_table
+```
+
 ## Plugins
 
 | Plugin | README |
