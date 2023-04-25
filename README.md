@@ -52,6 +52,9 @@ Hasil Run Website Daftar Guru
 ```sh
 php yii serve --port=8990
 ```
+```sh
+localhost:8990
+```
 
 ## Plugins
 
