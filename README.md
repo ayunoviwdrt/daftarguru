@@ -47,7 +47,8 @@ Applying Migrations
 ```sh
 yii migrate
 ```
-Hasil 
+
+Hasil Run Website Daftar Guru
 ```sh
 php yii serve --port=8990
 ```
