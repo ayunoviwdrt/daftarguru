@@ -30,11 +30,7 @@ Website ini dibangun menggunakan :
 git clone 
 ```
 
-Cara melihat hasil website Perpustakaan SMKN 1 Denpasar
 
-```sh
-http://localhost/daftarguru/web/index.php?r=guru
-```
 
 ## Plugins
 
